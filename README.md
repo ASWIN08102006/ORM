@@ -39,6 +39,8 @@ class LoanAdmin(admin.ModelAdmin):
          list_display=('Name','Accountno','Address','Aadharno','Email')
 ```
 # OUTPUT
+![Screenshot 2024-12-16 002006](https://github.com/user-attachments/assets/6130e691-f2c5-4140-892f-957c15a71973)
+
 ![Screenshot 2024-12-07 231733](https://github.com/user-attachments/assets/4e4c3414-44d3-4e1c-bf7a-5ae19d0d132d)
 
 ![Screenshot 2024-12-07 231657](https://github.com/user-attachments/assets/8fe61218-5229-4171-9be5-bf9c9191dbde)
